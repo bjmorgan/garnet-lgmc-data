@@ -52,7 +52,7 @@ formatting = { 'axes.formatter.limits': (-3,3),
                'axes.labelpad': 10.0,
                'axes.labelsize': fontsize,
                'axes.titlepad': 30,
-               'lines.markersize': 8.0,
+               'lines.markersize': 5.0,
                'lines.scale_dashes': False }
 
 for k, v in formatting.items():
