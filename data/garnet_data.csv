@@ -1,4 +1,4 @@
-#      n_Li         E_nn       E_site            f          f_I          D_t       D_c oll       n_oct        n_tet
+#      n_Li         E_nn       E_site            f          f_I          D_t       D_coll        n_oct        n_tet
 
 # E_nn = 0.0 E_site = 0.0
           1          0.0          0.0        1.010        1.010    6.352E-07    6.352E-07         0.67         0.33
