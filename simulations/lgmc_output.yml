@@ -1,0 +1,266 @@
+---
+number of atoms: 1
+nearest-neighbour energy scaling: 0.0
+site energies:
+    O: 0.0
+    T: 0.0
+number of jumps: 10000
+correlation factor: 1.011979716122538
+collective correlation factor: 1.011979716122538
+tracer diffusion coefficient: 63684863408471.56
+collective diffusion coefficient: 63684863408471.56
+average octahedra occupation: 0.6662896143387063
+average tetrahedra occupation: 0.3337103856612938
+
+---
+number of atoms: 32
+nearest-neighbour energy scaling: 0.0
+site energies:
+    O: 0.0
+    T: 0.0
+number of jumps: 10000
+correlation factor: 0.9507672796612762
+collective correlation factor: 1.095883810871822
+tracer diffusion coefficient: 56665722607257.23
+collective diffusion coefficient: 65332554670163.58
+average octahedra occupation: 21.328522909406203
+average tetrahedra occupation: 10.671477090593799
+
+---
+number of atoms: 64
+nearest-neighbour energy scaling: 0.0
+site energies:
+    O: 0.0
+    T: 0.0
+number of jumps: 10000
+correlation factor: 0.9099781810852505
+collective correlation factor: 0.9934653073049766
+tracer diffusion coefficient: 50994477199150.38
+collective diffusion coefficient: 55638179738077.25
+average octahedra occupation: 42.665735903595674
+average tetrahedra occupation: 21.334264096404354
+
+---
+number of atoms: 96
+nearest-neighbour energy scaling: 0.0
+site energies:
+    O: 0.0
+    T: 0.0
+number of jumps: 10000
+correlation factor: 0.8525554071377589
+collective correlation factor: 1.025666170749657
+tracer diffusion coefficient: 44749436453254.74
+collective diffusion coefficient: 53863204109935.81
+average octahedra occupation: 64.0094088511646
+average tetrahedra occupation: 31.990591148835414
+
+---
+number of atoms: 128
+nearest-neighbour energy scaling: 0.0
+site energies:
+    O: 0.0
+    T: 0.0
+number of jumps: 10000
+correlation factor: 0.8125522243025949
+collective correlation factor: 0.9623142559804491
+tracer diffusion coefficient: 39859484993436.81
+collective diffusion coefficient: 47194554872761.45
+average octahedra occupation: 85.3006973093352
+average tetrahedra occupation: 42.6993026906648
+
+---
+number of atoms: 160
+nearest-neighbour energy scaling: 0.0
+site energies:
+    O: 0.0
+    T: 0.0
+number of jumps: 10000
+correlation factor: 0.7629232426462262
+collective correlation factor: 0.9634507489282435
+tracer diffusion coefficient: 34762781687668.97
+collective diffusion coefficient: 43904742127966.24
+average octahedra occupation: 106.60899946412536
+average tetrahedra occupation: 53.39100053587455
+
+---
+number of atoms: 192
+nearest-neighbour energy scaling: 0.0
+site energies:
+    O: 0.0
+    T: 0.0
+number of jumps: 10000
+correlation factor: 0.7253937551714361
+collective correlation factor: 0.9571663892650695
+tracer diffusion coefficient: 30470202681255.227
+collective diffusion coefficient: 40294452653148.57
+average octahedra occupation: 128.0174243655277
+average tetrahedra occupation: 63.982575634472404
+
+---
+number of atoms: 224
+nearest-neighbour energy scaling: 0.0
+site energies:
+    O: 0.0
+    T: 0.0
+number of jumps: 10000
+correlation factor: 0.6715687314527107
+collective correlation factor: 0.998100440557527
+tracer diffusion coefficient: 25864468874105.484
+collective diffusion coefficient: 38514550720679.64
+average octahedra occupation: 149.2996266473456
+average tetrahedra occupation: 74.70037335265431
+
+---
+number of atoms: 256
+nearest-neighbour energy scaling: 0.0
+site energies:
+    O: 0.0
+    T: 0.0
+number of jumps: 10000
+correlation factor: 0.634419316976114
+collective correlation factor: 0.9997181739644487
+tracer diffusion coefficient: 22209973101031.895
+collective diffusion coefficient: 34963061932197.68
+average octahedra occupation: 170.69263352206912
+average tetrahedra occupation: 85.30736647793087
+
+---
+number of atoms: 288
+nearest-neighbour energy scaling: 0.0
+site energies:
+    O: 0.0
+    T: 0.0
+number of jumps: 10000
+correlation factor: 0.5903539209363072
+collective correlation factor: 0.8612546206487902
+tracer diffusion coefficient: 18625423141071.207
+collective diffusion coefficient: 27187495966579.484
+average octahedra occupation: 191.9406380145322
+average tetrahedra occupation: 96.05936198546772
+
+---
+number of atoms: 320
+nearest-neighbour energy scaling: 0.0
+site energies:
+    O: 0.0
+    T: 0.0
+number of jumps: 10000
+correlation factor: 0.5505672833800298
+collective correlation factor: 1.2238615475297632
+tracer diffusion coefficient: 15444875642430.26
+collective diffusion coefficient: 34277730707597.71
+average octahedra occupation: 213.22720736301918
+average tetrahedra occupation: 106.77279263698094
+
+---
+number of atoms: 352
+nearest-neighbour energy scaling: 0.0
+site energies:
+    O: 0.0
+    T: 0.0
+number of jumps: 10000
+correlation factor: 0.5151221320458954
+collective correlation factor: 1.1110961005034725
+tracer diffusion coefficient: 12632800264470.85
+collective diffusion coefficient: 27284209373264.61
+average octahedra occupation: 234.69381572253215
+average tetrahedra occupation: 117.30618427746765
+
+---
+number of atoms: 384
+nearest-neighbour energy scaling: 0.0
+site energies:
+    O: 0.0
+    T: 0.0
+number of jumps: 10000
+correlation factor: 0.47640631743028694
+collective correlation factor: 0.9829707938901096
+tracer diffusion coefficient: 9990076224933.342
+collective diffusion coefficient: 20615464792599.62
+average octahedra occupation: 255.95113415811
+average tetrahedra occupation: 128.04886584189006
+
+---
+number of atoms: 416
+nearest-neighbour energy scaling: 0.0
+site energies:
+    O: 0.0
+    T: 0.0
+number of jumps: 10000
+correlation factor: 0.43414867526710976
+collective correlation factor: 0.9373592012059045
+tracer diffusion coefficient: 7606796074904.99
+collective diffusion coefficient: 16440343496506.955
+average octahedra occupation: 277.34489254745966
+average tetrahedra occupation: 138.65510745254022
+
+---
+number of atoms: 448
+nearest-neighbour energy scaling: 0.0
+site energies:
+    O: 0.0
+    T: 0.0
+number of jumps: 10000
+correlation factor: 0.4001658672872
+collective correlation factor: 1.0680178933535067
+tracer diffusion coefficient: 5615792552015.16
+collective diffusion coefficient: 14981698316860.27
+average octahedra occupation: 298.63655471177606
+average tetrahedra occupation: 149.363445288224
+
+---
+number of atoms: 480
+nearest-neighbour energy scaling: 0.0
+site energies:
+    O: 0.0
+    T: 0.0
+number of jumps: 10000
+correlation factor: 0.35942832434258287
+collective correlation factor: 0.9428603125814667
+tracer diffusion coefficient: 3785751880903.4927
+collective diffusion coefficient: 9939783815023.37
+average octahedra occupation: 320.0139342094026
+average tetrahedra occupation: 159.9860657905975
+
+---
+number of atoms: 512
+nearest-neighbour energy scaling: 0.0
+site energies:
+    O: 0.0
+    T: 0.0
+number of jumps: 10000
+correlation factor: 0.3277836990675456
+collective correlation factor: 1.0607471614446105
+tracer diffusion coefficient: 2294961069397.161
+collective diffusion coefficient: 7430945114965.751
+average octahedra occupation: 341.30665580185286
+average tetrahedra occupation: 170.69334419814714
+
+---
+number of atoms: 544
+nearest-neighbour energy scaling: 0.0
+site energies:
+    O: 0.0
+    T: 0.0
+number of jumps: 10000
+correlation factor: 0.2870774157454873
+collective correlation factor: 1.0560736188183053
+tracer diffusion coefficient: 1006183527902.0863
+collective diffusion coefficient: 3701953629541.8193
+average octahedra occupation: 362.672119587065
+average tetrahedra occupation: 181.32788041293497
+
+---
+number of atoms: 575
+nearest-neighbour energy scaling: 0.0
+site energies:
+    O: 0.0
+    T: 0.0
+number of jumps: 10000
+correlation factor: 0.252723286601362
+collective correlation factor: 0.9690168435329237
+tracer diffusion coefficient: 27626546169.008495
+collective diffusion coefficient: 106051544364.19566
+average octahedra occupation: 383.33338014908423
+average tetrahedra occupation: 191.66661985091562
+
