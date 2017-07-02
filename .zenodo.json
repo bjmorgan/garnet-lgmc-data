@@ -1,0 +1,13 @@
+{
+    "description": "Dataset for “Lattice-Geometry Effects in Garnet Solid Electrolytes: A Lattice-Gas Monte Carlo Simulation Study”", 
+    "license": "CC BY-SA 4.0", 
+    "title": "bjmorgan/garnet-lgmc-data", 
+    "upload_type": "dataset", 
+    "creators": [
+        {
+            "affiliation": "Department of Chemistry, University of Bath, Claverton Down, Bath, BA2 7AY, United Kingdom", 
+            "name": "Benjamin J. Morgan"
+        }
+    ], 
+    "access_right": "open"
+}

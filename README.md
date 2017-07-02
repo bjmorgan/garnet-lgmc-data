@@ -1,8 +1,9 @@
 # Dataset for &ldquo;Lattice-Geometry Effects in Garnet Solid Electrolytes: A Lattice-Gas Monte Carlo Simulation Study&rdquo;
 
-B. J. Morgan. [http://orcid.org/0000-0002-3056-8233](http://orcid.org/0000-0002-3056-8233)
-
 [![DOI](https://zenodo.org/badge/93930678.svg)](https://zenodo.org/badge/latestdoi/93930678)
+[![LICENSE](https://img.shields.io/badge/LICENSE-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+B. J. Morgan. [http://orcid.org/0000-0002-3056-8233](http://orcid.org/0000-0002-3056-8233)
 
 This repository contains lattice-gas Monte Carlo simulation data and supporting code for the paper &ldquo;Lattice-Geometry Effects in Garnet Solid Electrolytes: A Lattice-Gas Monte Carlo Simulation Study&rdquo; [1].
 
