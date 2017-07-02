@@ -49,7 +49,7 @@ Morgan, Benjamin J. (2017, July 2). Dataset for "Lattice-Geometry Effects in Gar
 ```
 
 ## Acknowledgements
-B.\ J.\ M.\ acknowledges support from the Royal Society (UF130329).
+B. J. M. acknowledges support from the Royal Society (UF130329).
 
 ## References
 
