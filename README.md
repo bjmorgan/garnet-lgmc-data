@@ -4,7 +4,7 @@
 [![LICENSE](https://img.shields.io/badge/LICENSE-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![ARXIV](https://img.shields.io/badge/arXiv-1707.00491-yellow.svg)](https://arxiv.org/abs/1707.00491)
 
-B. J. Morgan. [http://orcid.org/0000-0002-3056-8233](http://orcid.org/0000-0002-3056-8233)
+B. J. Morgan. [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--3056--8233-green.svg)]http://orcid.org/0000-0002-3056-8233](http://orcid.org/0000-0002-3056-8233)
 
 This repository contains lattice-gas Monte Carlo simulation data and supporting code for the paper &ldquo;[Lattice-Geometry Effects in Garnet Solid Electrolytes: A Lattice-Gas Monte Carlo Simulation Study](https://arxiv.org/abs/1707.00491)&rdquo; [1].
 
