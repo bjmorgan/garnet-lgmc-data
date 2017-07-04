@@ -7,6 +7,10 @@
   "description": "This repository contains lattice-gas Monte Carlo simulation data and supporting code for the paper \"Lattice-Geometry Effects in Garnet Solid Electrolytes: A Lattice-Gas Monte Carlo Simulation Study\"",
   "access_right": "open",
   "license": "CC-BY-SA-4.0",
+  "related_identifiers": [{
+    "identifier": "arXiv:1707.00491",
+    "relation": "isCitedBy"
+  }],
   "grants": [{
       "code": "UF130329",
       "funder": "The Royal Society"
