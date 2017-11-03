@@ -55,5 +55,5 @@ B. J. M. acknowledges support from the Royal Society (UF130329).
 
 ## References
 
-1. B. J. Morgan *Lattice-Geometry Effects in Garnet Solid Electrolytes: A Lattice-Gas Monte Carlo Simulation Study*. [arXiv:1707.00491](https://arxiv.org/abs/1707.00491) \[cond-mat.mtrl-sci\].
+1. B. J. Morgan *Lattice-Geometry Effects in Garnet Solid Electrolytes: A Lattice-Gas Monte Carlo Simulation Study*. [R. Soc. open sci. 4: 170824. (2017)](http://dx.doi.org/10.1098/rsos.170824).
 
