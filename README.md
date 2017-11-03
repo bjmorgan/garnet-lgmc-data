@@ -3,10 +3,11 @@
 [![DOI](https://zenodo.org/badge/93930678.svg)](https://zenodo.org/badge/latestdoi/93930678)
 [![LICENSE](https://img.shields.io/badge/LICENSE-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![ARXIV](https://img.shields.io/badge/arXiv-1707.00491-yellow.svg)](https://arxiv.org/abs/1707.00491)
+[![RSOS](https://img.shields.io/badge/manuscript%20DOI-10.1098%2Frsos.170824-yellow.svg)](http://dx.doi.org/10.1098/rsos.170824)
 
 [Benjamin J. Morgan.](http://orcid.org/0000-0002-3056-8233)
 
-This repository contains lattice-gas Monte Carlo simulation data and supporting code for the paper &ldquo;[Lattice-Geometry Effects in Garnet Solid Electrolytes: A Lattice-Gas Monte Carlo Simulation Study](https://arxiv.org/abs/1707.00491)&rdquo; [1].
+This repository contains lattice-gas Monte Carlo simulation data and supporting code for the paper &ldquo;[Lattice-Geometry Effects in Garnet Solid Electrolytes: A Lattice-Gas Monte Carlo Simulation Study](http://dx.doi.org/10.1098/rsos.170824)&rdquo; [1].
 
 The repository contains:
 1. the complete data set used to support the findings of the study.
