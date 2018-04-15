@@ -4,7 +4,7 @@
 [![LICENSE](https://img.shields.io/badge/LICENSE-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![ARXIV](https://img.shields.io/badge/arXiv-1707.00491-yellow.svg)](https://arxiv.org/abs/1707.00491)
 [![RSOS](https://img.shields.io/badge/manuscript%20DOI-10.1098%2Frsos.170824-yellow.svg)](http://dx.doi.org/10.1098/rsos.170824)
-[![CircleCI](https://circleci.com/gh/bjmorgan/data_garnet-lgmc-data.svg?style=shield&circle-token=8df28629ca7292fec637a6b48e16658bac41ae8f)](https://circleci.com/gh/bjmorgan/garnet-lgmc-data)
+[![CircleCI](https://circleci.com/gh/bjmorgan/garnet-lgmc-data.svg?style=shield&circle-token=8df28629ca7292fec637a6b48e16658bac41ae8f)](https://circleci.com/gh/bjmorgan/garnet-lgmc-data)
 
 [Benjamin J. Morgan.](http://orcid.org/0000-0002-3056-8233)
 
