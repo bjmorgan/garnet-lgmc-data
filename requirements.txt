@@ -1,7 +1,7 @@
-pandas
-numpy
-matplotlib
-version_information
-jupyter
-nbformat
-scipy
+pandas==0.22.0
+numpy==1.14.2
+matplotlib==2.2.2
+version_information==1.0.3
+jupyter==1.0.0
+nbformat==4.4.0
+scipy==1.0.1
